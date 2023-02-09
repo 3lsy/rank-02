@@ -1,6 +1,6 @@
 # include <unistd.h>
 
-void print_bits(unsigned char octet) //???? ????
+void print_bits(unsigned char octet) // ???? ????
 {
 	int comparation = 128; // 1000 0000
 	int i = 0;
